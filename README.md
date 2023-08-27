@@ -1,4 +1,4 @@
-# WEB102 Prework - _Name of App Here_
+# WEB102 Prework - Sea Monster Crowdfunding
 
 Submitted by: Camila Castaneda
 
